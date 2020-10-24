@@ -11,7 +11,7 @@ Machine learning (ML) is a study of computational algorithms that improve automa
 2. Customize and scale products
 3. Complete seemingly "unprogrammable" tasks
 
-In this section, I would like to tell my exploration result about one of Google Developer Products, Machine Learning Kit. 
+In this section, I would like to tell my exploration result about one of Google Developer Products, <b>Machine Learning Kit</b>. 
 
 ML Kit is a mobile software development kit that brings Google's on-device machine learning expertise to Android and iOS apps. There are many challenges and new UX creation which can be solved by using Vision and Natural Language APIs. All are powered by Google's leading machine learning models.
 ML Kit brings Google's machine learning expertise to mobile developers in a powerful and easy-to-use package. By using this kit, your iOS and Android apps will be more engaging, personalized, and helpful with solutions that are optimized to run on device.
